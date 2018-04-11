@@ -1,0 +1,2 @@
+file '/Users/jamesmclean/Dropbox/repos/popup_slicer/reference_files/pop.mov'
+file '/Users/jamesmclean/Dropbox/repos/popup_slicer/reference_files/25_FPS_EDIT30_16_HUMAN_VO.mov'

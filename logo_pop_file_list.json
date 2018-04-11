@@ -1,0 +1,12 @@
+{
+	"logo": {
+		"human": "reference_files\/human logo White On Black 4K Resolution.png",
+		"post_human": "reference_files\/Post Human 4K.png",
+		"custom": ""
+	},
+	"pop": {
+		"human": "\/Users\/jamesmclean\/Dropbox\/repos\/popup_slicer\/reference_files\/Human-2pop-18db-Stereo.aif",
+		"post_human": "\/Users\/jamesmclean\/Dropbox\/repos\/popup_slicer\/reference_files\/PostHuman-2pop-18db-Stereo48k.aif",
+		"custom": ""
+	}
+}

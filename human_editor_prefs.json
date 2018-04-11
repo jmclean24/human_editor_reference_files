@@ -1,0 +1,123 @@
+{
+	"layup": {
+		"video": {
+			"MOV": {
+				"codec": 1,
+				"width": "copy",
+				"height": "copy",
+				"frame_rate": 1,
+				"size": 1
+			},
+			"WMV": {
+				"codec": 1,
+				"width": "copy",
+				"height": "copy",
+				"frame_rate": 1,
+				"size": 1
+			},
+			"MP4": {
+				"codec": 1,
+				"width": "copy",
+				"height": "copy",
+				"frame_rate": 1,
+				"size": 1
+			}
+		},
+		"audio": {
+			"AAC": {
+				"bit_rate": 2,
+				"codec": 1
+			},
+			"AIF": {
+				"bit_rate": 1,
+				"codec": 1
+			},
+			"MP3": {
+				"bit_rate": 1,
+				"codec": 1
+			}
+		},
+		"lq": {
+			"video_codec": 1,
+			"width": "copy",
+			"height": "copy",
+			"size": 2,
+			"frame_rate": 1
+		}
+	},
+	"pop": {
+		"human": {
+			"format": 1,
+			"audio_codec": 2,
+			"vid_codec": 2,
+			"size": 2,
+			"sample_rate": 2,
+			"bit_rate": 3,
+			"pop": 1,
+			"logo": 1
+		},
+		"post_human": {
+			"format": 1,
+			"audio_codec": 2,
+			"vid_codec": 4,
+			"size": 3,
+			"sample_rate": 3,
+			"bit_rate": 3,
+			"pop": 2,
+			"logo": 2
+		},
+		"preset_3": {
+			"format": 1,
+			"audio_codec": 1,
+			"vid_codec": 1,
+			"size": 1,
+			"sample_rate": 1,
+			"bit_rate": 1,
+			"pop": 2,
+			"logo": 2
+		},
+		"preset_4": {
+			"format": 1,
+			"audio_codec": 1,
+			"vid_codec": 1,
+			"size": 1,
+			"sample_rate": 1,
+			"bit_rate": 1,
+			"pop": 3,
+			"logo": 3
+		}
+	},
+	"layout": {
+		"video": {
+			"key": [1,1,1,1,1,1,1,1],
+			"title": 1,
+			"length": 1,
+			"file_type": 1,
+			"size": 1,
+			"codec": 1,
+			"select_frame": 1,
+			"frame_rate": 1
+		},
+		"audio": {
+			"key": [1,1,1,1,1,1,1],
+			"title": 1,
+			"length": 1,
+			"file_type": 1,
+			"size": 1,
+			"bit_rate": 1,
+			"sample_rate": 1
+		}
+	},
+	"materials": {
+		"logos": {
+			"human": "human_logo.png",
+			"post_human": "post_human_logo.png",
+			"other": ""
+		},
+		"pops": {
+			"human": "human_pop.aif",
+			"post_human": "post_human_pop.aif",
+			"other": ""
+		}
+	}
+}
