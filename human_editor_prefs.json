@@ -24,7 +24,7 @@
 			}
 		},
 		"audio": {
-			"AAC": {
+			"M4A": {
 				"bit_rate": 2,
 				"codec": 1
 			},
