@@ -25,10 +25,10 @@
 		},
 		"audio": {
 			"M4A": {
-				"bit_rate": 2,
+				"bit_rate": 1,
 				"codec": 1
 			},
-			"AIF": {
+			"WAV": {
 				"bit_rate": 1,
 				"codec": 1
 			},
