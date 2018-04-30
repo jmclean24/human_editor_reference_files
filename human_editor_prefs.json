@@ -119,5 +119,9 @@
 			"post_human": "post_human_pop.aif",
 			"other": ""
 		}
-	}
+	},
+    "installation": {
+        "homebrew": 0,
+        "ffmpeg": 0
+    }
 }
