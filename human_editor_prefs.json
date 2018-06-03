@@ -1,5 +1,5 @@
 {
-	"layup": {
+	"file_convert": {
 		"video": {
 			"MOV": {
 				"codec": 1,
@@ -36,6 +36,13 @@
 				"bit_rate": 1,
 				"codec": 1
 			}
+		}
+	},
+	"layup": {
+		"audio": {
+			"format": 3,
+			"codec": 1,
+			"bit_rate": 4
 		},
 		"lq": {
 			"video_codec": 1,
@@ -119,9 +126,5 @@
 			"post_human": "post_human_pop.aif",
 			"other": ""
 		}
-	},
-    "installation": {
-        "homebrew": 0,
-        "ffmpeg": 0
-    }
+	}
 }
