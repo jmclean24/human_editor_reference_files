@@ -55,7 +55,7 @@
 	"pop": {
 		"human": {
 			"format": 1,
-			"audio_codec": 2,
+			"audio_codec": 1,
 			"vid_codec": 2,
 			"size": 2,
 			"sample_rate": 2,
@@ -65,7 +65,7 @@
 		},
 		"post_human": {
 			"format": 1,
-			"audio_codec": 2,
+			"audio_codec": 1,
 			"vid_codec": 4,
 			"size": 3,
 			"sample_rate": 3,
